@@ -1,0 +1,16 @@
+{
+  "name": "mqtt-influx-bridge",
+  "version": "0.1.0",
+  "description": "A simple bridge between mqtt and influxdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Law",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "influx": "^5.0.7",
+    "mqtt": "^2.18.8"
+  }
+}
